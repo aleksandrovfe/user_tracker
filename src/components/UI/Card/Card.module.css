@@ -7,4 +7,5 @@
     background-clip: border-box;
     box-shadow: 10px 10px 10px rgb(46 54 68 / 3%);
     width: 100%;
+    box-sizing: border-box;
 }

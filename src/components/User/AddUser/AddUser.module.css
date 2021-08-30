@@ -16,23 +16,9 @@
     padding: 10px 20px;
     outline: none;
     border: none;
+    font-size: 18px;
 }
 
 .label {
     margin-bottom: 20px;
-}
-
-.btn {
-    border-radius: 20px;
-    border: 0;
-    outline: none;
-    padding: 30px 0;
-    background-color: black;
-    color: white;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.btn:hover {
-    background-color: #9796f0;
 }
