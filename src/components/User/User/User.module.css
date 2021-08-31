@@ -1,0 +1,7 @@
+.user__info {
+    font-size: 20px;
+    font-style: italic;
+    letter-spacing: 5px;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+}

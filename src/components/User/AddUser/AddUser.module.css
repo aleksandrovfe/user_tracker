@@ -1,0 +1,24 @@
+.form__wrapper {
+    max-width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 20px 0;
+}
+
+.input {
+    border-radius: 20px;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+}
+
+.label {
+    margin-bottom: 20px;
+}
